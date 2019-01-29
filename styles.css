@@ -1,3 +1,7 @@
+body {
+  font-family:Oswald;
+}
+
 section h1 {
   background-color: rgb(137, 174, 242);
   color: rgb(0, 255, 42);
